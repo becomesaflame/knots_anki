@@ -1,27 +1,29 @@
-Bottle Harness	"<img src=""bottle 0.jpg"" /><div><img src=""bottle1.jpg"" /></div><div><img src=""bottle2.jpg"" /></div><div><img src=""bottle3.jpg"" /></div><div><img src=""bottle4.jpg"" /></div><div><img src=""bottle5.jpg"" /></div><div><img src=""bottle6.jpg"" /></div><div><img src=""bottle7.jpg"" /></div>"	The standing ends can be tied back to the loop to make a sling. &nbsp;If vertical hang is desired, Asher's Equalizer Knot can be used to make the bottle hang from a central point.&nbsp;	
-One Handed Alpine Butterfly	Spark's video: https://www.youtube.com/watch?v=Yf7P1Um3ACc		
-One Handed Bowline	[Link video if necessary]		
-Slipped Half Hitch	"<img src=""Slipped Half Hitch.gif"" />"		
-Scaffold Hitch	"<img src=""Scaffold hitch.gif"" />"		
-Vertical Scaffold Hitch	"<img src=""vertical scaffold hitch.gif"" />"		
-Hoisting Barrel Sideways	"<img src=""horiz barrel.gif"" />"		
-Hoisting Barrel Upright	"<img src=""vertical barrel.gif"" />"		
-Constrictor	"<img src=""constrictor.gif"" />"	The constrictor knot is used to make a tight binding. &nbsp;It works best when tied around something with a relatively small diameter. &nbsp;The constrictor knot binds and can be difficult to untie.&nbsp;	
-Automobilist	"<img src=""automobilist.gif"" />"		
-Tarpaulin Hitch	"<img src=""tarp.gif"" /><br /><div>(Uses crossing knot)</div>"		
-Cloth Lashing (Linked through loops)	"<img src=""cloth-linked.gif"" /><br /><div><div><br /><div><br /></div></div></div>"		
-Cloth Lashing (Tucked loops)	"<img src=""cloth-tucked.gif"" />"		
-Zeppelin Hitch	"<img src=""zeppelin1.jpg"" /><div><img src=""zeppelin2.jpg"" /></div><div><img src=""zeppelin3.jpg"" /></div>"	Secure bend that will never bind.&nbsp;	
-Spanish Bowline	"<br /><div><img src=""spanish bowline.gif"" /></div>"		
-French Bowline	"<img src=""14067_59_1.jpg"" />"	An excellent single column tie.&nbsp;	
-Somerville Bowline	"<img src=""svbl2qr-8381.jpg"" />"	A single column tie. Can loosen when repeatedly loaded and unloaded.&nbsp;	
-Chinese Crown Loop	"<img src=""chinese crown.jpg"" />"		
-Double Splayed Loop	"<img src=""Double splayed.jpg"" />"		
-Short End Sheet Bend	"<img src=""short end sheet bend.jpg"" />"	Useful for joining two ropes when you don't have much rope to work with in one end.&nbsp;	
-Sliding Eye Splice	"<img src=""sliding eye splice 1.jpg"" /><div><img src=""sliding eye splice 2.jpg"" /></div><div><img src=""sliding eye splice 3.jpg"" /></div>"		
-Transom Knot	"<img src=""transom.jpg"" />"	Often used as a quick lashing for binding perpendicular spars. This knot is the same form as the Strangle Knot and the Double Fisherman's Bend.&nbsp;	
-Balancing Pole Knot	"<img src=""Balancing pole.gif"" /><div><img src=""Balancing pole text.jpg"" /></div>"		
-Sneaky Bucket Knot	"<img src=""Sneaky Bucket Knot.jpg"" /><div><img src=""Sneaky Bucket Text.jpg"" /></div>"		
-Marlingspike	"<img src=""marlingspike.jpg"" />"	The Marlinspike Hitch can be used to create a handle in a line, or to create a toggle. It can be tied quickly with one hand. This makes it easy to keep tension on a line with one hand, pick up a stick from the ground with your other hand, and tie it into a Marlinspike Hitch to give yourself a handle. When the marlinspike is removed, the knot disappears.&nbsp;	
-Timber Hitch	"<img src=""timber-hitch_lg.gif"" />"	Useful for carrying a bundle of sticks, or dragging a log. Quckly unties with a shake of the rope.&nbsp;	
-Klemheist	"<img src=""klemheist1.PNG"" /><div><br /></div><div><img src=""klemheist2.PNG"" /></div>"	The Klemheist is a friction hitch that is easily tied and can slide when tension is not applied.&nbsp;<div><br /></div><div>It is often used for ascending a rope. The Klemheist is easier to slide than a Prusik knot and can be tied with webbing. Note that the Prusik is bidirectional, whereas the Klemheist only holds in one direction.&nbsp;</div>	
+Bottle Harness	"<img src=""bottle 0.jpg"" /><div><img src=""bottle1.jpg"" /></div><div><img src=""bottle2.jpg"" /></div><div><img src=""bottle3.jpg"" /></div><div><img src=""bottle4.jpg"" /></div><div><img src=""bottle5.jpg"" /></div><div><img src=""bottle6.jpg"" /></div><div><img src=""bottle7.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>The standing ends can be tied back to the loop to make a sling. &nbsp;If vertical hang is desired, Asher's Equalizer Knot can be used to make the bottle hang from a central point.&nbsp;</div> "
+One Handed Alpine Butterfly	Spark's video: https://www.youtube.com/watch?v=Yf7P1Um3ACc  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> 
+One Handed Bowline	[Link video if necessary]  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> 
+Slipped Half Hitch	"<img src=""Slipped Half Hitch.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Scaffold Hitch	"<img src=""Scaffold hitch.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Vertical Scaffold Hitch	"<img src=""vertical scaffold hitch.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Hoisting Barrel Sideways	"<img src=""horiz barrel.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Hoisting Barrel Upright	"<img src=""vertical barrel.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Constrictor	"<img src=""constrictor.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>The constrictor knot is used to make a tight binding. &nbsp;It works best when tied around something with a relatively small diameter. &nbsp;The constrictor knot binds and can be difficult to untie.&nbsp;</div> "
+Automobilist	"<img src=""automobilist.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Tarpaulin Hitch	"<img src=""tarp.gif"" /><br /><div>(Uses crossing knot)</div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Cloth Lashing (Linked through loops)	"<img src=""cloth-linked.gif"" /><br /><div><div><br /><div><br /></div></div></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Cloth Lashing (Tucked loops)	"<img src=""cloth-tucked.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Zeppelin Hitch	"<img src=""zeppelin1.jpg"" /><div><img src=""zeppelin2.jpg"" /></div><div><img src=""zeppelin3.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>Secure bend that will never bind.&nbsp;</div> "
+Spanish Bowline	"<br /><div><img src=""spanish bowline.gif"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+French Bowline	"<img src=""14067_59_1.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>An excellent single column tie.&nbsp;</div> "
+Somerville Bowline	"<img src=""svbl2qr-8381.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>A single column tie. Can loosen when repeatedly loaded and unloaded.&nbsp;</div> "
+Chinese Crown Loop	"<img src=""chinese crown.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Double Splayed Loop	"<img src=""Double splayed.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Short End Sheet Bend	"<img src=""short end sheet bend.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>Useful for joining two ropes when you don't have much rope to work with in one end.&nbsp;</div> "
+Sliding Eye Splice	"<img src=""sliding eye splice 1.jpg"" /><div><img src=""sliding eye splice 2.jpg"" /></div><div><img src=""sliding eye splice 3.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Transom Knot	"<img src=""transom.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>Often used as a quick lashing for binding perpendicular spars. This knot is the same form as the Strangle Knot and the Double Fisherman's Bend.&nbsp;</div> "
+Balancing Pole Knot	"<img src=""Balancing pole.gif"" /><div><img src=""Balancing pole text.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Sneaky Bucket Knot	"<img src=""Sneaky Bucket Knot.jpg"" /><div><img src=""Sneaky Bucket Text.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
+Marlingspike	"<img src=""marlingspike.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>The Marlinspike Hitch can be used to create a handle in a line, or to create a toggle. It can be tied quickly with one hand. This makes it easy to keep tension on a line with one hand, pick up a stick from the ground with your other hand, and tie it into a Marlinspike Hitch to give yourself a handle. When the marlinspike is removed, the knot disappears.&nbsp;</div> "
+Timber Hitch	"<img src=""timber-hitch_lg.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>Useful for carrying a bundle of sticks, or dragging a log. Quckly unties with a shake of the rope.&nbsp;</div> "
+Klemheist	"<img src=""klemheist1.PNG"" /><div><br /></div><div><img src=""klemheist2.PNG"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>The Klemheist is a friction hitch that is easily tied and can slide when tension is not applied.&nbsp;<div><br /></div><div>It is often used for ascending a rope. The Klemheist is easier to slide than a Prusik knot and can be tied with webbing. Note that the Prusik is bidirectional, whereas the Klemheist only holds in one direction.&nbsp;</div></div> "
+Double Pile Hitch	"<img src=""pilehitch.jpg"" /><div><br /></div><div>Double Pile Hitch:</div><div><img src=""doublepilehitch.gif"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>The Pile Hitch is perpendicular loaded hitch that can be tied quickly and easily near the end of a bollard or post. The more secure Double Pile Hitch variant simply takes an extra turn around the post before throwing the loop over the top.&nbsp;<div><br /></div><div>The Pile Hitch can be used for tying a rope fence. The Double Pile Hitch can be used to tie off a mooring line.&nbsp;</div></div> "
+Icicle Hitch	"Tied with the end:<div><img src=""icicle_hitch_end.jpg"" /></div><div><br /></div><div>Tied with a loop:</div><div><img src=""icicle_hitch_loop1.PNG"" /></div><div><br /></div><div><img src=""icicle_hitch_loop2.PNG"" /></div><div><br /></div><div><img src=""icicle_hitch_loop3.PNG"" /></div><div><br /></div><div><img src=""icicle_hitch_loop4.PNG"" /></div><div><br /></div><div><img src=""icicle_hitch_loop5.PNG"" /></div><div><br /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>The Icicle Hitch is a very secure hitch for single-direction parallel loads that will remain easy to untie.&nbsp;<div><br /></div><div>It is secure enough to hold even on a slippery or tapered surface. &nbsp;</div><div><br /></div><div>The Icicle Hitch can be slid into position when unloaded.</div></div> "
