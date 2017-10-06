@@ -11,7 +11,7 @@ Automobilist	"<img src=""automobilist.gif"" />  <hr id=notes>  <div style='font-
 Tarpaulin Hitch	"<img src=""tarp.gif"" /><br /><div>(Uses crossing knot)</div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
 Cloth Lashing (Linked through loops)	"<img src=""cloth-linked.gif"" /><br /><div><div><br /><div><br /></div></div></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
 Cloth Lashing (Tucked loops)	"<img src=""cloth-tucked.gif"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
-Zeppelin Hitch	"<img src=""zeppelin1.jpg"" /><div><img src=""zeppelin2.jpg"" /></div><div><img src=""zeppelin3.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>Secure bend that will never bind.&nbsp;</div> "
+Zeppelin Bend	"<img src=""zeppelin1.jpg"" /><div><img src=""zeppelin2.jpg"" /></div><div><img src=""zeppelin3.jpg"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>Secure bend that will never bind.&nbsp;</div> "
 Spanish Bowline	"<br /><div><img src=""spanish bowline.gif"" /></div>  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'></div> "
 French Bowline	"<img src=""14067_59_1.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>An excellent single column tie.&nbsp;</div> "
 Somerville Bowline	"<img src=""svbl2qr-8381.jpg"" />  <hr id=notes>  <div style='font-family: Arial; font-size: 20px;'>A single column tie. Can loosen when repeatedly loaded and unloaded.&nbsp;</div> "
